@@ -15,6 +15,11 @@ header{
     /* font-family: 'Heebo', sans-serif;   */
 }
 
+body
+{
+    background: #F3F4f6;
+}
+
 button 
 {
     display: block;
@@ -29,8 +34,7 @@ footer {
     background-color: var(--primary-color);
     padding: 1rem;
     text-align: center;
+    margin: 0;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
-    padding-right: 4rem;
-    padding-inline-start: 0rem;
 }
